@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct Turtle_RockApp: App {
+struct LandmarksApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
